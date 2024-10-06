@@ -19,5 +19,5 @@ My colleague Dania and I cooperated to finish this project. We developed a fully
 - **MySQL**: To manage and store relational data, such as job listings and blog content.
 - **JWT (JSON Web Tokens)**: For secure user authentication and authorization.
 
-[**Live Demo**]((https://www.kasselsoft.com/en) ) - Bilingual job and blog management platform.
+[**Live Demo**](https://www.kasselsoft.com/en ) - Bilingual job and blog management platform.
 
