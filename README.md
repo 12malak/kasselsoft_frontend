@@ -15,7 +15,7 @@ My colleague Dania and I cooperated to finish this project. We developed a fully
 - **React.js**: For building dynamic and interactive user experiences.
 
 ### Back-End:
-- **Node.js with Express.js**: For handling server-side logic and routing.
+- **Node.js with Express.js**: For handling server-side logic and routing. the [github](https://github.com/12malak/kasselsoft_backend) .
 - **MySQL**: To manage and store relational data, such as job listings and blog content.
 - **JWT (JSON Web Tokens)**: For secure user authentication and authorization.
 
